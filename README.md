@@ -26,9 +26,7 @@ We tested this scenario in AirSim and you can see some snapshots from this scena
 
 ![image-20230115162638691](images/image-20230115162638691.png) 
 
-​                               
-
-​         ![image-20230115162734830](images/image-20230115162734830.png)
+![image-20230115162734830](images/image-20230115162734830.png)
 
  ![image-20230115162743642](images/image-20230115162743642.png)
 
