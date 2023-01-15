@@ -1,6 +1,6 @@
 # Introduction to fulfilled projects
 
-Here I give a background to a number of accomplished projects and the software or hardware used.
+Here you will find information about a number of completed projects and the software or hardware used.
 
 ## Detection and tracking of targets with Deep Learning
 
