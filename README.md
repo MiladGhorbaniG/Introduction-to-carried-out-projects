@@ -23,7 +23,7 @@ We tested 2 scenarios. In the first, the starting point and destination was from
 We have tested this scenario in AirSim and you can see an snapshot from this scenario. In the pictures you can see the image observed by the robot and the path followed by the robot and its control commands.
 
 
- ![image-20230115162743642](images/image-20230115162743642.png)
+ ![image-20230115162743642](images/image-20230115162757686.png)
 
 
 These scenarios were also tested on the Jetson TX2.
