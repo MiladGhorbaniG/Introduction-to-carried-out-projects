@@ -34,9 +34,11 @@ These scenarios were also tested on the Jetson TX2.
 
 ## Prediction of stock, crypto and FX markets with LSTM approach
 2020-21
+
 In this project, the important factors for each market are studied. Then their time series are collected by crawling, different APIs and different resources by data cleaning. Then pre-processing is done to make the data useful for prediction. Then a model based on LSTM is trained and its parameters are optimized to be useful for trading. Its accuracy is evaluated using various metrics such as precision, MAE, MSE, etc. The model is found to be useful in testing and can be far more profitable than the baselines.
 
 ## Video object detection for bird detection
 2021-22
+
 This project tests different approaches to object detection on a dataset created to detect birds. Some of the approaches tested were image-based, such as Faster RCNN, YOLO, Retinanet, and Swin Transformer, and some others were video-based, such as TransVOD, LSFA, DEFT, Centertrack, SELSA. A post-processing method, REPP, is also tested. Its performance is improved using camera movement compensation. The detection accuracy was 95.07 and with these video methods, the accuracy was improved by 3 percent. The models were tested on the Jetson Xavier board. To obtain a fast model, we also used knowledge distillation and obtained a model with a smaller number of parameters and still good accuracy by training with a large model.
 
