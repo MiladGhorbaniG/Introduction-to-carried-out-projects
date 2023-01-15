@@ -20,7 +20,7 @@ In this project, the goal was a visual control of a robot for obstacle avoidance
 
 We tested 2 scenarios. In the first one the start point and goal was from D to K in the graph below:
 
-![image-20230115162451129](https://github.com/MiladGhorbaniG/Crypto-Prediction/images/image-20230115162451129.png)
+![image-20230115162451129](images/image-20230115161001594.png)
 
 We tested this scenario in AirSim and you can see some snapshots from this scenario
 
