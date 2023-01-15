@@ -28,13 +28,13 @@ We tested this scenario in AirSim and you can see some snapshots from this scena
 
 ​                               
 
-​         ![image-20230115162734830](C:\Users\Milad\AppData\Roaming\Typora\typora-user-images\image-20230115162734830.png)
+​         ![image-20230115162734830](images\image-20230115162734830.png)
 
- ![image-20230115162743642](C:\Users\Milad\AppData\Roaming\Typora\typora-user-images\image-20230115162743642.png)
+ ![image-20230115162743642](images\image-20230115162743642.png)
 
-![image-20230115162751265](C:\Users\Milad\AppData\Roaming\Typora\typora-user-images\image-20230115162751265.png)
+![image-20230115162751265](images\image-20230115162751265.png)
 
-![image-20230115162757686](C:\Users\Milad\AppData\Roaming\Typora\typora-user-images\image-20230115162757686.png)
+![image-20230115162757686](images\image-20230115162757686.png)
 
-![image-20230115162806376](C:\Users\Milad\AppData\Roaming\Typora\typora-user-images\image-20230115162806376.png)
+![image-20230115162806376](images\image-20230115162806376.png)
 
