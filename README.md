@@ -1,4 +1,4 @@
-# Introduction to fulfilled projects
+# Introduction to carried out projects
 
 Here you will find information about a number of completed projects and the software or hardware used.
 
