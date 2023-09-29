@@ -8,12 +8,11 @@ Here you will find information about a number of completed projects and the soft
 
 This project was about detecting and tracking people in a room using computer vision. The camera was rotated using a servo motor and targets were detected using deep learning methods such as YOLO and Faster RCNN. The deep learning models were developed using the Python language via the Tensorflow and Keras libraries. The hardware for processing was a Raspberry Pie. We collected and labelled the data using LabelMe.
 
-## Increasing the speed of reinforcement learning through ensemble learning 
+## Increasing the speed of reinforcement learning through ensemble learning
 
 2018-19
 
 In this project, some agents learn a task simultaneously using ensemble learning ideas and share their knowledge to increase the learning speed. Matlab, Python and Javascript are used for the simulations. A preprint on this work can be found in [paper](https://arxiv.org/abs/2012.07091).
-
 
 ## Semantic Real-Time Segmentation and Autonomous Driving
 
@@ -27,9 +26,7 @@ We tested 2 scenarios. In the first, the starting point and destination was from
 
 We have tested this scenario in AirSim and you can see an snapshot from this scenario. In the pictures you can see the image observed by the robot and the path followed by the robot and its control commands.
 
-
  ![image-20230115162743642](images/image-20230115162757686.png)
-
 
 These scenarios were also tested on the Jetson TX2.
 
@@ -42,5 +39,12 @@ In this project, the important factors for each market are studied. Then their t
 ## Video object detection for bird detection
 
 2021-22
+
+This project tests different approaches to object detection on a dataset created to detect birds. Some of the approaches tested were image-based, such as Faster RCNN, YOLO, Retinanet, and Swin Transformer, and some others were video-based, such as TransVOD, LSFA, DEFT, Centertrack, SELSA. A post-processing method, REPP, is also tested. Its performance is improved using camera movement compensation. The detection accuracy was 95.07 and with these video methods, the accuracy was improved by 3 percent. The models were tested on the Jetson Xavier board. To obtain a fast model, we also used knowledge distillation and obtained a model with a smaller number of parameters and still good accuracy by training with a large model.
+
+
+## Road Detection
+
+2022-23
 
 This project tests different approaches to object detection on a dataset created to detect birds. Some of the approaches tested were image-based, such as Faster RCNN, YOLO, Retinanet, and Swin Transformer, and some others were video-based, such as TransVOD, LSFA, DEFT, Centertrack, SELSA. A post-processing method, REPP, is also tested. Its performance is improved using camera movement compensation. The detection accuracy was 95.07 and with these video methods, the accuracy was improved by 3 percent. The models were tested on the Jetson Xavier board. To obtain a fast model, we also used knowledge distillation and obtained a model with a smaller number of parameters and still good accuracy by training with a large model.
