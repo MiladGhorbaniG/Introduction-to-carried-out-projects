@@ -32,17 +32,24 @@ These scenarios were also tested on the Jetson TX2.
 
 ## Advanced Trading Strategy for Stock, Crypto and Forex Markets
 
-2020-21
+2020-25
 
 This innovative trading system delivers exceptional results across multiple financial markets, achieving over **70% accuracy** in market predictions. The system significantly outperforms traditional investment strategies, providing users with a superior trading experience that consistently beats both HODL (Hold On for Dear Life) and DCA (Dollar Cost Averaging) approaches.
 
 ### Key Performance Advantages:
 - **Superior Returns**: Consistently generates higher profits compared to passive investment strategies
 - **Market Versatility**: Successfully operates across stocks, cryptocurrencies, and forex markets
-- **Risk Management**: Intelligent position sizing and timing reduces exposure to market volatility
+- **Risk Management**: Intelligent position sizing and timing reduce exposure to market volatility
 - **User-Friendly Experience**: Streamlined interface that makes sophisticated trading accessible to all skill levels
 
-The system analyzes critical market factors and processes vast amounts of real-time data to make informed trading decisions. Through advanced machine learning techniques, it identifies profitable opportunities while minimizing risks, giving traders a significant edge in today's competitive markets.
+The system analyzes critical market factors and processes vast amounts of real-time data to make informed trading decisions. Through advanced machine learning techniques, including various LSTM architectures (Bidirectional LSTM, Stacked LSTM, and LSTM with Attention mechanisms) and modern transformer-based models, it identifies profitable opportunities while minimizing risks, giving traders a significant edge in today's competitive markets.
+
+### Advanced Model Architectures:
+- **Bidirectional LSTM**: Captures both forward and backward temporal dependencies in market data
+- **Stacked LSTM**: Multi-layer architecture for complex pattern recognition across different time horizons
+- **LSTM with Attention**: Focuses on the most relevant market indicators and time periods
+- **Transformer Models**: Leverage self-attention mechanisms for superior sequence modeling
+- **Hybrid Architectures**: Combine LSTM and transformer approaches for optimal performance
 
 **Performance Highlights:**
 - Over 70% prediction accuracy across all tested markets
