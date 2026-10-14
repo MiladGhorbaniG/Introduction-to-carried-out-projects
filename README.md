@@ -9,6 +9,7 @@ Here you will find information about a number of completed projects and the soft
 - [rag-docs-assistant](https://github.com/MiladGhorbaniG/rag-docs-assistant) — FastAPI and pgvector shelf assistant. It ingests Markdown and PDF notes and answers in a streaming chat with citations.
 - [multi-agent-workflow](https://github.com/MiladGhorbaniG/multi-agent-workflow) — planner, researcher, writer, and reviewer sharing one state object, with a mock language model so the desk runs offline.
 - [telegram-miniapp-starter](https://github.com/MiladGhorbaniG/telegram-miniapp-starter) — Django, Celery, a Telegram Mini App, and an FAQ bot, with a mock membership payment.
+- [booknook-crm](https://github.com/MiladGhorbaniG/booknook-crm) — membership CRM with a deal pipeline, a shared job queue, and follow-up drafts from the contact's notes.
 
 ### Other public work
 
