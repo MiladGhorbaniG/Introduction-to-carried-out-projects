@@ -2,6 +2,22 @@
 
 Here you will find information about a number of completed projects and the software or hardware used.
 
+## Public repositories
+
+### BookNook demos
+
+- [rag-docs-assistant](https://github.com/MiladGhorbaniG/rag-docs-assistant) — FastAPI and pgvector shelf assistant. It ingests Markdown and PDF notes and answers in a streaming chat with citations.
+- [multi-agent-workflow](https://github.com/MiladGhorbaniG/multi-agent-workflow) — planner, researcher, writer, and reviewer sharing one state object, with a mock language model so the desk runs offline.
+- [telegram-miniapp-starter](https://github.com/MiladGhorbaniG/telegram-miniapp-starter) — Django, Celery, a Telegram Mini App, and an FAQ bot, with a mock membership payment.
+
+### Other public work
+
+- [GNN-for-Recommendation-System](https://github.com/MiladGhorbaniG/GNN-for-Recommendation-System) — movie recommendations with collaborative filtering and content-based filtering on MovieLens.
+- [ai4elife](https://github.com/MiladGhorbaniG/ai4elife) — data-centric segmentation of tumor regions on whole-body FDG PET/CT, with surrogate tumor-burden features.
+- [Customer-Churn-Prediction-Kaggle-Challenge](https://github.com/MiladGhorbaniG/Customer-Churn-Prediction-Kaggle-Challenge) — logistic regression on the Telco Customer Churn set. Test accuracy is about 81%.
+- [Django-Real-State-Listing-APP](https://github.com/MiladGhorbaniG/Django-Real-State-Listing-APP) — Django listings, reservations, availability checks, and PDF or CSV reports.
+- [Saleor-with-Custom-Attributes](https://github.com/MiladGhorbaniG/Saleor-with-Custom-Attributes) — Saleor core, the headless GraphQL commerce API, with custom attributes.
+
 ## Detection and tracking of targets with Deep Learning
 
 2017-18
